@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/padnevici/heroku.app.js/issues"
   },
-  "homepage": "https://github.com/padnevici/heroku.app.js#readme"
+  "homepage": "https://github.com/padnevici/heroku.app.js#readme",
+  "dependencies": {
+    "cucumber": "^5.0.2",
+    "protractor": "^5.4.1"
+  }
 }
