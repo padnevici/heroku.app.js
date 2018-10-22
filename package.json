@@ -1,0 +1,19 @@
+{
+  "name": "test-js-herokuapp",
+  "version": "1.0.0",
+  "description": "Test framework example based on JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padnevici/heroku.app.js.git"
+  },
+  "author": "Andrei Padnevici <padnevici@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/padnevici/heroku.app.js/issues"
+  },
+  "homepage": "https://github.com/padnevici/heroku.app.js#readme"
+}
