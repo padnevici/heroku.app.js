@@ -4,7 +4,8 @@
   "description": "Test framework example based on JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cucumber": "node_modules/.bin/cucumber-js.cmd ./features -r ./stepsDefinitions"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,9 @@
   },
   "homepage": "https://github.com/padnevici/heroku.app.js#readme",
   "dependencies": {
-    "cucumber": "^5.0.2",
     "protractor": "^5.4.1"
+  },
+  "devDependencies": {
+    "cucumber": "^5.0.2"
   }
 }
